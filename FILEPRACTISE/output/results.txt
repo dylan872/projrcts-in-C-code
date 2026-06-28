@@ -1,0 +1,10 @@
+ferran     Bsc 89       first class
+
+dylan      Bsc 99       first class
+
+derek      Bsc 89       first class
+
+jose       Bsc 88       first class
+
+junior     Bsc 50       pass
+
